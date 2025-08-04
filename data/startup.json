@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "GreenFarm",
+    "settore": "AgriTech",
+    "città": "Bologna",
+    "sito": "https://greenfarm.it"
+  },
+  {
+    "nome": "MediAI",
+    "settore": "HealthTech",
+    "città": "Milano",
+    "sito": "https://mediai.it"
+  },
+  {
+    "nome": "FinBlocks",
+    "settore": "FinTech",
+    "città": "Torino",
+    "sito": "https://finblocks.io"
+  }
+]
