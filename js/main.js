@@ -1,4 +1,4 @@
-fetch("data/startups.json")
+fetch("/data/startups.json")
   .then((response) => response.json())
   .then((data) => {
     const list = document.getElementById("startups");
